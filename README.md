@@ -12,7 +12,7 @@ That's a pretty good call.
 
 I'm the best of both worlds; a lifelong creative professional with the technical skills to make your dreams come true.
 I can work a fully integrated Swift stack from iOS/MacOs/WatchOS to a fully featured vapor application backend. Which not many people on the planet can say.
-I've opened for Bill Burr, Dave Attell, Jay Mohr, Dane Cook, Ralphie May, and most of my heroes in stand up comedy. I've been a traveling professional entertainer since the age of 17. 
+I've opened for most of my heroes in stand up comedy. I've been a traveling professional entertainer since the age of 17. 
 I do not do things small and I do not do things halfway. If you or your company need a sure bet, my inbox is open. 
 
 codymorleyINC@gmail.com
